@@ -1,0 +1,863 @@
+{
+  "districts": [
+    {
+      "id": "dist-kurnool",
+      "name": "Kurnool",
+      "code": "KUR"
+    },
+    {
+      "id": "dist-alluri-sitharama-raju",
+      "name": "Alluri Sitharama Raju",
+      "code": "ASR"
+    },
+    {
+      "id": "dist-anakapalli",
+      "name": "Anakapalli",
+      "code": "AKP"
+    },
+    {
+      "id": "dist-ananthapuramu",
+      "name": "Ananthapuramu",
+      "code": "ATP"
+    },
+    {
+      "id": "dist-annamayya",
+      "name": "Annamayya",
+      "code": "ANN"
+    },
+    {
+      "id": "dist-bapatla",
+      "name": "Bapatla",
+      "code": "BPT"
+    },
+    {
+      "id": "dist-chittoor",
+      "name": "Chittoor",
+      "code": "CTR"
+    },
+    {
+      "id": "dist-konaseema",
+      "name": "Dr. B.R. Ambedkar Konaseema",
+      "code": "KNS"
+    },
+    {
+      "id": "dist-east-godavari",
+      "name": "East Godavari",
+      "code": "EG"
+    },
+    {
+      "id": "dist-eluru",
+      "name": "Eluru",
+      "code": "ELR"
+    },
+    {
+      "id": "dist-guntur",
+      "name": "Guntur",
+      "code": "GNT"
+    },
+    {
+      "id": "dist-kakinada",
+      "name": "Kakinada",
+      "code": "KKD"
+    },
+    {
+      "id": "dist-krishna",
+      "name": "Krishna",
+      "code": "KRI"
+    },
+    {
+      "id": "dist-nandyal",
+      "name": "Nandyal",
+      "code": "NDL"
+    },
+    {
+      "id": "dist-ntr",
+      "name": "NTR (Vijayawada)",
+      "code": "NTR"
+    },
+    {
+      "id": "dist-palnadu",
+      "name": "Palnadu",
+      "code": "PLN"
+    },
+    {
+      "id": "dist-parvathipuram",
+      "name": "Parvathipuram Manyam",
+      "code": "PVM"
+    },
+    {
+      "id": "dist-prakasam",
+      "name": "Prakasam",
+      "code": "PKM"
+    },
+    {
+      "id": "dist-spsr-nellore",
+      "name": "Sri Potti Sriramulu Nellore",
+      "code": "NLR"
+    },
+    {
+      "id": "dist-sri-sathya-sai",
+      "name": "Sri Sathya Sai",
+      "code": "SSS"
+    },
+    {
+      "id": "dist-srikakulam",
+      "name": "Srikakulam",
+      "code": "SKL"
+    },
+    {
+      "id": "dist-tirupati",
+      "name": "Tirupati",
+      "code": "TPT"
+    },
+    {
+      "id": "dist-visakhapatnam",
+      "name": "Visakhapatnam",
+      "code": "VSP"
+    },
+    {
+      "id": "dist-vizianagaram",
+      "name": "Vizianagaram",
+      "code": "VZM"
+    },
+    {
+      "id": "dist-west-godavari",
+      "name": "West Godavari",
+      "code": "WG"
+    },
+    {
+      "id": "dist-ysr-kadapa",
+      "name": "YSR Kadapa",
+      "code": "YSR"
+    }
+  ],
+  "mandals": [
+    {
+      "id": "mnd-mantralayam",
+      "districtId": "dist-kurnool",
+      "name": "Mantralayam"
+    },
+    {
+      "id": "mnd-kurnool-urban",
+      "districtId": "dist-kurnool",
+      "name": "Kurnool Urban"
+    },
+    {
+      "id": "mnd-adoni",
+      "districtId": "dist-kurnool",
+      "name": "Adoni"
+    },
+    {
+      "id": "mnd-yemmiganur",
+      "districtId": "dist-kurnool",
+      "name": "Yemmiganur"
+    },
+    {
+      "id": "mnd-kodumur",
+      "districtId": "dist-kurnool",
+      "name": "Kodumur"
+    },
+    {
+      "id": "mnd-pattikonda",
+      "districtId": "dist-kurnool",
+      "name": "Pattikonda"
+    },
+    {
+      "id": "mnd-dhone",
+      "districtId": "dist-kurnool",
+      "name": "Dhone"
+    },
+    {
+      "id": "mnd-alur",
+      "districtId": "dist-kurnool",
+      "name": "Alur"
+    },
+    {
+      "id": "mnd-aspari",
+      "districtId": "dist-kurnool",
+      "name": "Aspari"
+    },
+    {
+      "id": "mnd-holagunda",
+      "districtId": "dist-kurnool",
+      "name": "Holagunda"
+    },
+    {
+      "id": "mnd-kowthalam",
+      "districtId": "dist-kurnool",
+      "name": "Kowthalam"
+    },
+    {
+      "id": "mnd-nandavaram",
+      "districtId": "dist-kurnool",
+      "name": "Nandavaram"
+    },
+    {
+      "id": "mnd-pedda-kadubur",
+      "districtId": "dist-kurnool",
+      "name": "Pedda Kadubur"
+    },
+    {
+      "id": "mnd-gudur-kur",
+      "districtId": "dist-kurnool",
+      "name": "Gudur"
+    },
+    {
+      "id": "mnd-orvakal",
+      "districtId": "dist-kurnool",
+      "name": "Orvakal"
+    },
+    {
+      "id": "mnd-veldurthi",
+      "districtId": "dist-kurnool",
+      "name": "Veldurthi"
+    },
+    {
+      "id": "mnd-c-belagal",
+      "districtId": "dist-kurnool",
+      "name": "C.Belagal"
+    },
+    {
+      "id": "mnd-guntur-east",
+      "districtId": "dist-guntur",
+      "name": "Guntur East"
+    },
+    {
+      "id": "mnd-guntur-west",
+      "districtId": "dist-guntur",
+      "name": "Guntur West"
+    },
+    {
+      "id": "mnd-tenali",
+      "districtId": "dist-guntur",
+      "name": "Tenali"
+    },
+    {
+      "id": "mnd-mangalagiri",
+      "districtId": "dist-guntur",
+      "name": "Mangalagiri"
+    },
+    {
+      "id": "mnd-tadikonda",
+      "districtId": "dist-guntur",
+      "name": "Tadikonda"
+    },
+    {
+      "id": "mnd-vijayawada-central",
+      "districtId": "dist-ntr",
+      "name": "Vijayawada Central"
+    },
+    {
+      "id": "mnd-vijayawada-east",
+      "districtId": "dist-ntr",
+      "name": "Vijayawada East"
+    },
+    {
+      "id": "mnd-ibrahimpatnam",
+      "districtId": "dist-ntr",
+      "name": "Ibrahimpatnam"
+    },
+    {
+      "id": "mnd-jaggayyapeta",
+      "districtId": "dist-ntr",
+      "name": "Jaggayyapeta"
+    },
+    {
+      "id": "mnd-vizag-urban",
+      "districtId": "dist-visakhapatnam",
+      "name": "Visakhapatnam Urban"
+    },
+    {
+      "id": "mnd-gajuwaka",
+      "districtId": "dist-visakhapatnam",
+      "name": "Gajuwaka"
+    },
+    {
+      "id": "mnd-bheemunipatnam",
+      "districtId": "dist-visakhapatnam",
+      "name": "Bheemunipatnam"
+    },
+    {
+      "id": "mnd-tirupati-urban",
+      "districtId": "dist-tirupati",
+      "name": "Tirupati Urban"
+    },
+    {
+      "id": "mnd-chandragiri",
+      "districtId": "dist-tirupati",
+      "name": "Chandragiri"
+    },
+    {
+      "id": "mnd-srikalahasti",
+      "districtId": "dist-tirupati",
+      "name": "Srikalahasti"
+    },
+    {
+      "id": "mnd-ananthapur-urban",
+      "districtId": "dist-ananthapuramu",
+      "name": "Ananthapuramu Urban"
+    },
+    {
+      "id": "mnd-dharmavaram",
+      "districtId": "dist-ananthapuramu",
+      "name": "Dharmavaram"
+    },
+    {
+      "id": "mnd-tadipatri",
+      "districtId": "dist-ananthapuramu",
+      "name": "Tadipatri"
+    },
+    {
+      "id": "mnd-kadapa-urban",
+      "districtId": "dist-ysr-kadapa",
+      "name": "Kadapa Urban"
+    },
+    {
+      "id": "mnd-proddatur",
+      "districtId": "dist-ysr-kadapa",
+      "name": "Proddatur"
+    },
+    {
+      "id": "mnd-pulivendula",
+      "districtId": "dist-ysr-kadapa",
+      "name": "Pulivendula"
+    },
+    {
+      "id": "mnd-machilipatnam",
+      "districtId": "dist-krishna",
+      "name": "Machilipatnam"
+    },
+    {
+      "id": "mnd-gudivada",
+      "districtId": "dist-krishna",
+      "name": "Gudivada"
+    },
+    {
+      "id": "mnd-nandyal-urban",
+      "districtId": "dist-nandyal",
+      "name": "Nandyal Urban"
+    },
+    {
+      "id": "mnd-allagadda",
+      "districtId": "dist-nandyal",
+      "name": "Allagadda"
+    }
+  ],
+  "villages": [
+    {
+      "id": "vil-madhavaram",
+      "mandalId": "mnd-mantralayam",
+      "name": "Madhavaram"
+    },
+    {
+      "id": "vil-mantralayam",
+      "mandalId": "mnd-mantralayam",
+      "name": "Mantralayam"
+    },
+    {
+      "id": "vil-chetnihalli",
+      "mandalId": "mnd-mantralayam",
+      "name": "Chetnihalli"
+    },
+    {
+      "id": "vil-basapuram",
+      "mandalId": "mnd-mantralayam",
+      "name": "Basapuram"
+    },
+    {
+      "id": "vil-chilakaladoni",
+      "mandalId": "mnd-mantralayam",
+      "name": "Chilakaladoni"
+    },
+    {
+      "id": "vil-kachapuram",
+      "mandalId": "mnd-mantralayam",
+      "name": "Kachapuram"
+    },
+    {
+      "id": "vil-rampuram",
+      "mandalId": "mnd-mantralayam",
+      "name": "Rampuram"
+    },
+    {
+      "id": "vil-suvarnagiri",
+      "mandalId": "mnd-mantralayam",
+      "name": "Suvarnagiri"
+    },
+    {
+      "id": "vil-vannedoddi",
+      "mandalId": "mnd-mantralayam",
+      "name": "Vannedoddi"
+    },
+    {
+      "id": "vil-budur",
+      "mandalId": "mnd-mantralayam",
+      "name": "Budur"
+    },
+    {
+      "id": "vil-tungabhadra",
+      "mandalId": "mnd-mantralayam",
+      "name": "Tungabhadra"
+    },
+    {
+      "id": "vil-kurnool-proper",
+      "mandalId": "mnd-kurnool-urban",
+      "name": "Kurnool Proper"
+    },
+    {
+      "id": "vil-kallur",
+      "mandalId": "mnd-kurnool-urban",
+      "name": "Kallur"
+    },
+    {
+      "id": "vil-b-camp",
+      "mandalId": "mnd-kurnool-urban",
+      "name": "B-Camp"
+    },
+    {
+      "id": "vil-joharapuram",
+      "mandalId": "mnd-kurnool-urban",
+      "name": "Joharapuram"
+    },
+    {
+      "id": "vil-adoni-town",
+      "mandalId": "mnd-adoni",
+      "name": "Adoni Town"
+    },
+    {
+      "id": "vil-mandagiri",
+      "mandalId": "mnd-adoni",
+      "name": "Mandagiri"
+    },
+    {
+      "id": "vil-isvi",
+      "mandalId": "mnd-adoni",
+      "name": "Isvi"
+    },
+    {
+      "id": "vil-basarakodu",
+      "mandalId": "mnd-adoni",
+      "name": "Basarakodu"
+    },
+    {
+      "id": "vil-yemmiganur-town",
+      "mandalId": "mnd-yemmiganur",
+      "name": "Yemmiganur Town"
+    },
+    {
+      "id": "vil-banavasi",
+      "mandalId": "mnd-yemmiganur",
+      "name": "Banavasi"
+    },
+    {
+      "id": "vil-gudikal",
+      "mandalId": "mnd-yemmiganur",
+      "name": "Gudikal"
+    },
+    {
+      "id": "vil-kodumur-proper",
+      "mandalId": "mnd-kodumur",
+      "name": "Kodumur"
+    },
+    {
+      "id": "vil-pyalakurthy",
+      "mandalId": "mnd-kodumur",
+      "name": "Pyalakurthy"
+    },
+    {
+      "id": "vil-guntur-collectorate",
+      "mandalId": "mnd-guntur-east",
+      "name": "Old Guntur"
+    },
+    {
+      "id": "vil-guntur-brodipet",
+      "mandalId": "mnd-guntur-west",
+      "name": "Brodipet"
+    },
+    {
+      "id": "vil-tenali-town",
+      "mandalId": "mnd-tenali",
+      "name": "Tenali Town"
+    },
+    {
+      "id": "vil-mangalagiri-town",
+      "mandalId": "mnd-mangalagiri",
+      "name": "Mangalagiri Town"
+    },
+    {
+      "id": "vil-governorpet",
+      "mandalId": "mnd-vijayawada-central",
+      "name": "Governorpet"
+    },
+    {
+      "id": "vil-benz-circle",
+      "mandalId": "mnd-vijayawada-east",
+      "name": "Benz Circle"
+    },
+    {
+      "id": "vil-ibrahimpatnam-vil",
+      "mandalId": "mnd-ibrahimpatnam",
+      "name": "Ibrahimpatnam"
+    },
+    {
+      "id": "vil-vizag-beach-road",
+      "mandalId": "mnd-vizag-urban",
+      "name": "Maharanipeta"
+    },
+    {
+      "id": "vil-gajuwaka-junction",
+      "mandalId": "mnd-gajuwaka",
+      "name": "Gajuwaka Junction"
+    },
+    {
+      "id": "vil-bheemili-beach",
+      "mandalId": "mnd-bheemunipatnam",
+      "name": "Bheemili"
+    },
+    {
+      "id": "vil-tirupati-proper",
+      "mandalId": "mnd-tirupati-urban",
+      "name": "Tirupati Main"
+    },
+    {
+      "id": "vil-chandragiri-fort",
+      "mandalId": "mnd-chandragiri",
+      "name": "Chandragiri"
+    },
+    {
+      "id": "vil-atp-town",
+      "mandalId": "mnd-ananthapur-urban",
+      "name": "Ananthapur City"
+    },
+    {
+      "id": "vil-dharmavaram-town",
+      "mandalId": "mnd-dharmavaram",
+      "name": "Dharmavaram Town"
+    }
+  ],
+  "schools": [
+    {
+      "id": "sch-madhavaram-zphs",
+      "villageId": "vil-madhavaram",
+      "name": "Zilla Parishad High School (ZPHS), Madhavaram",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-madhavaram-mpps-main",
+      "villageId": "vil-madhavaram",
+      "name": "Mandal Parishad Primary School (MPPS Main), Madhavaram",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-madhavaram-mpps-hw",
+      "villageId": "vil-madhavaram",
+      "name": "MPPS Madhavaram Harijana Wada (H.W.)",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-madhavaram-mpps-urdu",
+      "villageId": "vil-madhavaram",
+      "name": "MPPS Madhavaram Urdu Medium School",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-madhavaram-raghavendra",
+      "villageId": "vil-madhavaram",
+      "name": "Sri Raghavendra English Medium School, Madhavaram",
+      "type": "Private"
+    },
+    {
+      "id": "sch-mantralayam-zphs",
+      "villageId": "vil-mantralayam",
+      "name": "Zilla Parishad High School (ZPHS), Mantralayam",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-mantralayam-mpps",
+      "villageId": "vil-mantralayam",
+      "name": "Mandal Parishad Primary School (MPPS), Mantralayam",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-mantralayam-guru-sarvabhouma",
+      "villageId": "vil-mantralayam",
+      "name": "Guru Sarvabhouma High School, Mantralayam",
+      "type": "Aided"
+    },
+    {
+      "id": "sch-mantralayam-kgbv",
+      "villageId": "vil-mantralayam",
+      "name": "Kasturba Gandhi Balika Vidyalaya (KGBV), Mantralayam",
+      "type": "Government"
+    },
+    {
+      "id": "sch-mantralayam-sharada",
+      "villageId": "vil-mantralayam",
+      "name": "Sri Sharada Vidyaniketan, Mantralayam",
+      "type": "Private"
+    },
+    {
+      "id": "sch-chetnihalli-mpps",
+      "villageId": "vil-chetnihalli",
+      "name": "Mandal Parishad Primary School (MPPS), Chetnihalli",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-basapuram-zphs",
+      "villageId": "vil-basapuram",
+      "name": "Zilla Parishad High School (ZPHS), Basapuram",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-basapuram-mpps",
+      "villageId": "vil-basapuram",
+      "name": "Mandal Parishad Primary School (MPPS), Basapuram",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-chilakaladoni-mpps",
+      "villageId": "vil-chilakaladoni",
+      "name": "Mandal Parishad Primary School (MPPS), Chilakaladoni",
+      "type": "Mandal Parishad"
+    },
+    {
+      "id": "sch-kurnool-gov-city-hs",
+      "villageId": "vil-kurnool-proper",
+      "name": "Government Model Boys High School, Kurnool",
+      "type": "Government"
+    },
+    {
+      "id": "sch-kurnool-st-josephs",
+      "villageId": "vil-kurnool-proper",
+      "name": "St. Joseph's Girls High School, Kurnool",
+      "type": "Aided"
+    },
+    {
+      "id": "sch-kallur-zphs",
+      "villageId": "vil-kallur",
+      "name": "Zilla Parishad High School, Kallur",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-b-camp-mhs",
+      "villageId": "vil-b-camp",
+      "name": "Municipal High School, B-Camp, Kurnool",
+      "type": "Government"
+    },
+    {
+      "id": "sch-adoni-muni-hs",
+      "villageId": "vil-adoni-town",
+      "name": "Municipal High School, Adoni",
+      "type": "Government"
+    },
+    {
+      "id": "sch-adoni-st-antony",
+      "villageId": "vil-adoni-town",
+      "name": "St. Antony's High School, Adoni",
+      "type": "Aided"
+    },
+    {
+      "id": "sch-yemmiganur-zphs",
+      "villageId": "vil-yemmiganur-town",
+      "name": "Zilla Parishad High School, Yemmiganur",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-guntur-brodipet-zphs",
+      "villageId": "vil-guntur-brodipet",
+      "name": "Government High School, Brodipet, Guntur",
+      "type": "Government"
+    },
+    {
+      "id": "sch-mangalagiri-zphs",
+      "villageId": "vil-mangalagiri-town",
+      "name": "Zilla Parishad High School, Mangalagiri",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-vja-bishop-grassi",
+      "villageId": "vil-governorpet",
+      "name": "Bishop Grassi High School, Governorpet, Vijayawada",
+      "type": "Aided"
+    },
+    {
+      "id": "sch-vja-andhra-loyo",
+      "villageId": "vil-benz-circle",
+      "name": "Andhra Loyola High School, Benz Circle, Vijayawada",
+      "type": "Aided"
+    },
+    {
+      "id": "sch-vsp-kv-waltair",
+      "villageId": "vil-vizag-beach-road",
+      "name": "Kendriya Vidyalaya Waltair, Visakhapatnam",
+      "type": "Government"
+    },
+    {
+      "id": "sch-vsp-gajuwaka-zphs",
+      "villageId": "vil-gajuwaka-junction",
+      "name": "ZPHS Gajuwaka Main, Visakhapatnam",
+      "type": "Zilla Parishad"
+    },
+    {
+      "id": "sch-tpt-sv-high-school",
+      "villageId": "vil-tirupati-proper",
+      "name": "Sri Venkateswara High School (TTD), Tirupati",
+      "type": "Aided"
+    }
+  ],
+  "students": [
+    {
+      "id": "BBT000001",
+      "firstName": "Sai Krishna",
+      "lastName": "Kuruba",
+      "className": "Class 8",
+      "schoolId": "sch-madhavaram-zphs",
+      "schoolName": "Zilla Parishad High School (ZPHS), Madhavaram",
+      "fatherName": "Venkata Ramana",
+      "motherName": "Lakshmi Devi",
+      "mobileNumber": "9848012345",
+      "colonyStreet": "Ramanjaneya Swamy Temple Street",
+      "districtId": "dist-kurnool",
+      "districtName": "Kurnool",
+      "mandalId": "mnd-mantralayam",
+      "mandalName": "Mantralayam",
+      "villageId": "vil-madhavaram",
+      "villageName": "Madhavaram",
+      "registeredAt": "2026-09-01T09:30:00.000Z",
+      "updatedAt": "2026-09-03T17:49:54.867Z"
+    },
+    {
+      "id": "BBT000005",
+      "firstName": "Bala",
+      "lastName": "Brindavanam",
+      "className": "Class 0",
+      "schoolId": "sch-madhavaram-mpps-main",
+      "schoolName": "Mandal Parishad Primary School (MPPS Main), Madhavaram",
+      "fatherName": "V Rangamma",
+      "motherName": "G RAJESWRI",
+      "mobileNumber": "8143500978",
+      "colonyStreet": "circle",
+      "districtId": "dist-kurnool",
+      "districtName": "Kurnool",
+      "mandalId": "mnd-mantralayam",
+      "mandalName": "Mantralayam",
+      "villageId": "vil-madhavaram",
+      "villageName": "Madhavaram",
+      "registeredAt": "2026-09-19T08:19:53.284Z"
+    },
+    {
+      "id": "BBT000007",
+      "firstName": "GAJULA",
+      "lastName": "Suresh",
+      "className": "Class 9",
+      "schoolId": "sch-guntur-brodipet-zphs",
+      "schoolName": "Government High School, Brodipet, Guntur",
+      "fatherName": "G THIMMAPPA",
+      "motherName": "G RAJESWRI",
+      "mobileNumber": "8143500978",
+      "colonyStreet": "circle",
+      "districtId": "dist-guntur",
+      "districtName": "Guntur",
+      "mandalId": "mnd-guntur-west",
+      "mandalName": "Guntur West",
+      "villageId": "vil-guntur-brodipet",
+      "villageName": "Brodipet",
+      "registeredAt": "2026-09-19T08:54:14.706Z"
+    }
+  ],
+  "sequenceCounter": 7,
+  "attendance": [
+    {
+      "id": "att-2026-09-19-BBT000005",
+      "date": "2026-09-19",
+      "studentId": "BBT000005",
+      "studentName": "Bala Brindavanam",
+      "className": "Class 0",
+      "schoolId": "sch-madhavaram-mpps-main",
+      "schoolName": "Mandal Parishad Primary School (MPPS Main), Madhavaram",
+      "status": "absent",
+      "remarks": "",
+      "markedAt": "2026-09-19T08:22:46.372Z"
+    },
+    {
+      "id": "att-2026-09-19-BBT000001",
+      "date": "2026-09-19",
+      "studentId": "BBT000001",
+      "studentName": "Sai Krishna Kuruba",
+      "className": "Class 8",
+      "schoolId": "sch-madhavaram-zphs",
+      "schoolName": "Zilla Parishad High School (ZPHS), Madhavaram",
+      "status": "present",
+      "remarks": "",
+      "markedAt": "2026-09-19T08:22:46.372Z"
+    },
+    {
+      "id": "att-2026-09-17-BBT000005",
+      "date": "2026-09-17",
+      "studentId": "BBT000005",
+      "studentName": "Bala Brindavanam",
+      "className": "Class 0",
+      "schoolId": "sch-madhavaram-mpps-main",
+      "schoolName": "Mandal Parishad Primary School (MPPS Main), Madhavaram",
+      "status": "absent",
+      "remarks": "",
+      "markedAt": "2026-09-19T08:23:21.169Z"
+    },
+    {
+      "id": "att-2026-09-17-BBT000001",
+      "date": "2026-09-17",
+      "studentId": "BBT000001",
+      "studentName": "Sai Krishna Kuruba",
+      "className": "Class 8",
+      "schoolId": "sch-madhavaram-zphs",
+      "schoolName": "Zilla Parishad High School (ZPHS), Madhavaram",
+      "status": "present",
+      "remarks": "",
+      "markedAt": "2026-09-19T08:23:21.169Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-bala",
+      "email": "bala@gmail.com",
+      "name": "bala",
+      "password": "Bala$2026",
+      "role": "admin",
+      "provider": "password",
+      "createdAt": "2026-09-19T08:43:26.961Z"
+    },
+    {
+      "id": "user-1789807415897-rnduk",
+      "email": "ramesh@example.com",
+      "name": "Ramesh Kumar",
+      "password": "user123",
+      "role": "user",
+      "provider": "password",
+      "createdAt": "2026-09-19T08:43:35.897Z"
+    },
+    {
+      "id": "user-1789807419226-tuqzh",
+      "email": "newstudent@gmail.com",
+      "name": "Student User",
+      "role": "user",
+      "provider": "google",
+      "createdAt": "2026-09-19T08:43:39.226Z"
+    },
+    {
+      "id": "user-1789808027230-sn8f6",
+      "email": "balabrindavanam1@gmail.com",
+      "name": "Bala Brindavanam",
+      "role": "user",
+      "provider": "google",
+      "createdAt": "2026-09-19T08:53:47.230Z"
+    },
+    {
+      "id": "user-1789808544077-2kkf4",
+      "email": "teacher@gmail.com",
+      "name": "teacher",
+      "role": "user",
+      "provider": "google",
+      "createdAt": "2026-09-19T09:02:24.077Z"
+    }
+  ]
+}
